@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**coder2505/coder2505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hey there, I'm coder2505!  
 
 🚀 **Passionate about App & Web Development!**  
