@@ -2,11 +2,11 @@
 
 # 👋 Hey there, I'm coder2505!  
 
-🚀 **Passionate about App & Web Development!**  
+ **Passionate about App & Web Development!**  
 I love building things—whether it's mobile apps, websites, or tools that make life easier.  
 Always exploring new technologies and improving my skills.  
 
-## 🔥 About Me  
+## About Me  
 - 💻 **Developer** | **App & Web Enthusiast**  
 - 📱 **Building Mobile Apps** with Flutter  
 - 🌐 **Creating Websites**
@@ -28,4 +28,4 @@ Always exploring new technologies and improving my skills.
 
 ---
 
-🔥 **Let's build to make world a better place** 🚀  
+ **Let's build to make world a better place** 🚀  
