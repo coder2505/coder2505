@@ -6,9 +6,9 @@ I am currently learning Mobile app dev with Flutter, Dart, and have worked with 
 
 ---
 
-**Languages: Dart, Java, C, Python.**
+**Languages: Dart, Java, Kotlin C, Python.**
 
-**Skills: Firebase, Git, Flutter**
+**Skills: Firebase, Git, Flutter, Jetpack glance**
 
 ---
 
