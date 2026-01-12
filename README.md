@@ -2,7 +2,7 @@
 # Hello I am Manish.
 
 
-I am currently learning Mobile app dev with Flutter, Dart, and have worked with front end web dev, Native andoid development using JAVA, XML, and game development using UNITY (C#) and Godot (GodotScript).
+I am currently learning Mobile app dev with Kotlin Jetpack Compose, and have worked with Flutter, Native andoid development using JAVA, and game development using UNITY (C#) and Godot (GodotScript).
 
 ---
 
